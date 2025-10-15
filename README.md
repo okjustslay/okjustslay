@@ -1,12 +1,10 @@
-## Hi there 👋
-
 <!-- Profile README for @okjustslay (Siley Malakbaba) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=F76EF1&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Siley+Malakbaba!;Welcome+to+my+little+tech+universe+🌈" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=F76EF1&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Siley+Malakbaba🙋‍♀️!;Welcome+to+my+little+tech+world+🌈" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="250px" alt="rainbow gif"/>
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="200px" alt="cute black cat gif"/>
 </div>
 
 ---
@@ -14,20 +12,19 @@
 
 Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, and founder who’s passionate about **building, learning, and slaying new ideas** every day 💡💻  
 
+- 🌸 Pronouns: **she/her**
 - 🏡 Born in the **Netherlands 🇳🇱**  
 - 🧠 **Computer Science major** with a focus on **Cybersecurity**  
-- 🌱 Currently learning **Python**, **AI/ML**, and **React**  
+- 🌱 Currently learning **Python**, **AI/ML**, and **React** and **Linux**
 - 🚀 Building my own **startup**, shaping ideas into real, useful, and aesthetic products  
 - 🗣️ I speak **5 languages** fluently (and code in a few, too 😉)  
 - ✨ I love **learning new concepts** and **thinking outside the box**  
-- 🍜 When I’m not coding: you’ll find me **eating**, **researching stocks**, **shopping for clothes**, or **gaming 🎮**  
-- 🌸 Pronouns: **she/her**
+- 🍜 When I’m not coding: you’ll find me **eating**, **researching stocks**, **looking at clothes**, or **gaming 🎮**  
 - 🔭 I’m currently working on becoming a **healthy founder**, **twoimpatient**. becoming fluent in **Arabic**, advancing my technological knowledge.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate with **entrepreneurs** and **curious minds** 
+- 🤔 I’m looking for help with **improving my coding skills, and confidence in tech**
+- 💬 Ask me about fashion, stocks, social causes, the latest tech!
+- ⚡ Fun fact: I am a sneakerhead + i have synesthesia
 
 ---
 
@@ -36,13 +33,14 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
   
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify)](https://open.spotify.com/user/s.malakbaba?si=0b0dfaba0e054b3d)
 
+</div>
+
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s.malakbaba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=s.malakbaba&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s.malakbaba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
   </a>
 </p>
 
-</div>
 
 ---
 
@@ -66,7 +64,6 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
 ![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 </div>
@@ -103,7 +100,7 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
   
 🌍 I thrive on creativity, curiosity, and color.  
 🎮 Gaming + 🍜 food + 💸 stocks + 👗 fashion = my perfect weekend.  
-💭 My motto: *"If it doesn’t exist yet, I’ll build it."*
+💭 My motto: *"Grow better not bitter."*
 
 </div>
 
