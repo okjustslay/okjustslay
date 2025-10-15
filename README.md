@@ -45,6 +45,19 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
 
 ---
 
+###📫🌐 Connect with me! This is how you can reach me: ...
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/okjustslay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sileymalakbaba)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F76EF1?style=for-the-badge&logo=sparkles&logoColor=white)](https://siley.co.uk)
+
+</div>
+
+
+---
+
 ### 💖 My GitHub Stats
 <div align="center">
 
@@ -104,16 +117,6 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
 </div>
 
 
----
 
-- 📫🌐 Connect with me! This is how you can reach me: ...
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/okjustslay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sileymalakbaba)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F76EF1?style=for-the-badge&logo=sparkles&logoColor=white)](https://siley.co.uk)
-
-</div>
 
 ---
