@@ -45,7 +45,7 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
 
 ---
 
-###📫🌐 Connect with me! This is how you can reach me: ...
+### 📫🌐 Connect with me! This is how you can reach me: ...
 
 <div align="center">
 
