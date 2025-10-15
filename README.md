@@ -34,9 +34,14 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
 ### 🎶 Currently Vibing To
 <div align="center">
   
-[![Spotify]([https://novatorem.vercel.app/api/spotify)](https://spotify-github-profile.kittinanx.com/api/spotify)](https://open.spotify.com/user/s.malakbaba?si=0b0dfaba0e054b3d)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify)](https://open.spotify.com/user/s.malakbaba?si=0b0dfaba0e054b3d)
 
 </div>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s.malakbaba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 ---
 
