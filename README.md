@@ -31,7 +31,7 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
 ### 🎶 Currently Vibing To
 <div align="center">
   
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify)](https://open.spotify.com/user/s.malakbaba?si=0b0dfaba0e054b3d)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify)]
 
 </div>
 
@@ -44,7 +44,7 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
 
 ---
 
-### 💖 My GitHub Vibe
+### 💖 My GitHub Stats
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=okjustslay&color=ff69b4)
@@ -65,18 +65,6 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-</div>
-
----
-
-### ⚡ Quick Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=okjustslay&color=ff69b4)
-![Followers](https://img.shields.io/github/followers/okjustslay?label=Followers&color=ff69b4)
-![Stars](https://img.shields.io/github/stars/okjustslay?label=Stars&color=ff69b4)
 
 </div>
 
