@@ -1,10 +1,10 @@
 <!-- Profile README for @okjustslay (Siley Malakbaba) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=F76EF1&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Siley+Malakbaba🙋‍♀️!;Welcome+to+my+little+tech+world+🌈" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=F76EF1&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Siley+Malakbaba🙋‍♀️!;This+is+my+little+tech+world+🌈" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="200px" alt="cute black cat gif"/>
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenMzbG1vcjRlOWE0aTJoOWFvbzh1em9leXV2bXJ3d3J3emN3bmkxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="200px" alt="cute cats typing on keyboard gif"/>
 </div>
 
 ---
