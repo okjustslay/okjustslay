@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenMzbG1vcjRlOWE0aTJoOWFvbzh1em9leXV2bXJ3d3J3emN3bmkxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="200px" alt="cute cats typing on keyboard gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenMzbG1vcjRlOWE0aTJoOWFvbzh1em9leXV2bXJ3d3J3emN3bmkxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="200px" alt="cute cats typing on keyboard gif"/>
 </div>
 
 ---
