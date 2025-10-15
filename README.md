@@ -31,7 +31,8 @@ Hi! I’m **Siley Malakbaba** — a creative mind, multilingual technologist, an
 ### 🎶 Currently Vibing To
 
 <div align="center">
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify)](https://open.spotify.com/user/s.malakbaba?si=0b0dfaba0e054b3d)
+  
+[![Follow my Spotify Profile](https://spotify-github-profile.kittinanx.com/api/spotify)](https://open.spotify.com/user/s.malakbaba)
   
 </div>
 
